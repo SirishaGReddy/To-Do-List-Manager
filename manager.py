@@ -1,4 +1,3 @@
-#Hello
 class Manager:
     def __init__(self):
         self.task_list = {}        # Dictionary to store tasks as {task_description: [due_date, status]}
@@ -57,7 +56,7 @@ class Manager:
 
 if __name__ == '__main__':
     m = Manager()
-    print('Enter the commands here:\n')
+    print('Enter the commands here')
 
     while True:
         command = str(input('$$>')).strip()
@@ -102,7 +101,6 @@ if __name__ == '__main__':
             m.task_done(task)
 
         if func == 'Delete':
-            print(task)
             m.delete_task(task)
             print('Successfully removed')
 
