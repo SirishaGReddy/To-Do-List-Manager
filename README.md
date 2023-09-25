@@ -1,9 +1,8 @@
 # To-Do-List-Manager
 EI
-A to-do list manager is a software application or tool designed to help individuals and teams organize, prioritize, and keep track of their tasks,
-
-activities, and responsibilities. It serves as a digital or virtual version of a traditional paper to-do list, offering numerous features and benefits for efficient task management.
+A to-do list manager is a software application or tool designed to help individuals and teams organize, prioritize, and keep track of their tasks, activities, and responsibilities. It serves as a digital or virtual version of a traditional paper to-do list, offering numerous features and benefits for efficient task management.
 It involves steps like:
+
 Task Creation: Users can easily create tasks by entering a title, description, and date.
 
 Task Organization: To-do list managers often allow tasks to be organized into lists, folders, or categories. This feature enables users to group related tasks together, making it easier to manage projects, work, or personal responsibilities.
