@@ -16,6 +16,13 @@ Integrations:  to-do list manager integrate with other productivity and communic
 Overall, a to-do list manager is a versatile tool that can help individuals and teams become more organized, efficient, and productive in managing their daily tasks and responsibilities. Whether used for personal goals or professional projects, these applications play a vital role in modern task management.
 
 
+![image](https://github.com/SirishaGReddy/To-Do-List-Manager/assets/141760085/4f26bed1-206d-4de0-aebe-53e9f01fd660)
+
+![image](https://github.com/SirishaGReddy/To-Do-List-Manager/assets/141760085/5f21b880-864a-4a33-87a0-637062bd08f7)
+
+![image](https://github.com/SirishaGReddy/To-Do-List-Manager/assets/141760085/297d6c84-4649-4047-8414-fd42980d49a6)
+
+![image](https://github.com/SirishaGReddy/To-Do-List-Manager/assets/141760085/48dffb72-35a5-4307-8510-632c52192868)
 
 
 
