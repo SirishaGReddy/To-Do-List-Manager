@@ -24,6 +24,10 @@ Overall, a to-do list manager is a versatile tool that can help individuals and 
 
 ![image](https://github.com/SirishaGReddy/To-Do-List-Manager/assets/141760085/48dffb72-35a5-4307-8510-632c52192868)
 
+I have developed a Web Page using HTML,CSS and Javascript
+![image](https://github.com/SirishaGReddy/To-Do-List-Manager/assets/141760085/0804ff36-5a74-421e-96df-cb90653401f9)
+
+
 
 
 
