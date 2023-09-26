@@ -100,15 +100,15 @@ def parse_due_date(input_string):
 
 def main():
     task_manager = TaskManager()
-    print("\nOptions:")
-    print("1. Add Task (e.g., 'Buy groceries, Due: 2023-09-20')")
-    print("2. Mark Completed (e.g., 'Mark Completed: Buy groceries')")
-    print("3. Unmark Completed (e.g., 'Unmark Completed: Buy groceries')")
-    print("4. Delete Task (e.g., 'Delete Task: Buy groceries')")
-    print("5. Undo")
-    print("6. Redo")
-    print("7. View Tasks (e.g., 'Show all', 'Show completed', 'Show pending')")
-    print("8. Exit")
+    print("\nSelect An Option:")
+    print("Option 1 - Add Task (e.g., 'Buy groceries, Due: 2023-09-20')")
+    print("Option 2 - Mark Completed (e.g., 'Mark Completed: Buy groceries')")
+    print("Option 3 - Unmark Completed (e.g., 'Unmark Completed: Buy groceries')")
+    print("Option 4 - Delete Task (e.g., 'Delete Task: Buy groceries')")
+    print("Option 5 - Undo")
+    print("Option 6 - Redo")
+    print("Option 7 - View Tasks (e.g., 'Show all', 'Show completed', 'Show pending')")
+    print("Option 8 - Exit")
 
     while True:
 
